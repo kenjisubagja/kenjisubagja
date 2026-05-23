@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.pixabay.com/animation/2025/07/10/08/33/08-33-03-109_512.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/rnvpoC636fcAAAAC/typing-laptop.gif"  />
 </div>
 
 ###
